@@ -1,9 +1,11 @@
 theme: jekyll-theme-minimal
-title: ADA Template Website
-description: A template website for ADA
+title: Do geese see god
+description: First attempt, just trying stuff
 show_downloads: True
 navigation:
   - title: Home
     url: /
   - title: Example
     url: example
+  - title: test
+    url: test
