@@ -7,5 +7,9 @@ navigation:
     url: /
   - title: Example
     url: example
-  - title: test
-    url: test
+  - title: Public tolerance and appreciation
+    url: public_appreciation
+  - title: Actor personas for violence types
+    url: actor_personas
+  - title: Violence in countries and languages
+    url: countries_and_languages_differences
