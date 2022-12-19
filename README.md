@@ -1,6 +1,3 @@
----
-layout: default
----
 # Representations of violence and public appraisal
 
 ## Abstract 
