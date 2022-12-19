@@ -4,13 +4,14 @@
 After the Aurora shooting in Colorado in July 2012 (twelve people killed and 58 others injured), during the premiere of The Dark Knight Rises, controversy arose around the release of the film Joker. Considered too violent, very strict security measures were taken before its theatrical release, where it is rated R. Violence has always been a pillar in media. From tragic Greek theater to public executions, its powerful emotional impact stirs attention. In films, violence can manifest in increased sensory details. The representation of violence can be, depending on the audience's appreciation, the era, the culture, more or less explicit, more or less tolerated with different stereotypes in play. Our project aims to analyze the co-dependency between public appraisal, tolerance, and representations of violence, under different dimensions such as financial success, the tone of the films (comedy or drama), and geo-political context (nation, era).
 
 ## Research questions 
-1.) How does the public tolerate and appreciate violence in terms of tone and targets ?
+
+1.) [How does the public tolerate and appreciate violence in terms of tone and targets](https://maelysbillon.github.io/ada-template-website/public_appreciation) ?
 > Following this first question, we evaluate the success of violent movies. In addition, we elaborate typical types of violence for each genre and the tolerance towards violence. 
 
-2.) How is violence represented in different countries and languages? 
+2.) [How is violence represented in different countries and languages](https://maelysbillon.github.io/ada-template-website/countries_and_languages_differences)? 
 > Here we identify typical types of violence per country / language and we also want to identify types of violence that are tabood in countries. Furtermore, we try to link the results of different countries trough their geo-political situation. 
 
-3.) How is violence represented through actors? 
+3.) [How is violence represented through actors](https://maelysbillon.github.io/ada-template-website/actor_personas)? 
 > For each type of violence we find a persona that represents this type of violence. 
 
 ## Proposed additional datasets
@@ -43,6 +44,7 @@ We will evaluate the appreciation of violence in movies in two ways. First, we d
 We evaluate the tolerance of violence through our parental rating data set. Since each country issues parental ratings, we compare the parental ratings for a selection of countries for films having parental ratings in all countries. Furthermore, we analyze the tolerance of certain types of violence in countries as we did for sexual violence in France in our pre-analysis. 
 
 Furthermore, we can test hypotheses about the relation between certain types of violence and movie tones. For example, in our pre-analysis we notice that there are more comedic films with torture than comedic films with sexual violence. In opposite, dramas have more sexual violence than torture. This would enable us to study the comedic tolerance for certain types of violence.
+
 ### Violence in countries and languages 
 
 Firstly, we compute the fraction of violent movies for each type of violence per country and language. We did that in our pre-analysis for the overall presence of violence, where we identified Latin as the most violent language (with more than 60 movies), where 92% of all films using the Latin language are violent. On the other hand, only 49% of all films using Greek are violent.

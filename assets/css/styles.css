@@ -1,13 +1,13 @@
 body {
-  background-color: rgb(116, 9, 9);
+  background-color: rgb(174, 37, 37);
   padding:50px;
   font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  color:#fffafa;
+  color:#e1dede;
   font-weight:400;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
+  color:rgb(255, 255, 255);
   margin:0 0 20px;
 }
 
@@ -20,17 +20,17 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:28px;
+  font-size:32px;
   font-weight: 500;
 }
 
 h2 {
-  color:#393939;
+  color:#000000;
   font-weight: 500;
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
+  color:#000000;
   font-weight: 500;
 }
 
