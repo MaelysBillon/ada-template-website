@@ -18,4 +18,10 @@ Conflicts, instability, and morality can influence people's desire to see explic
 
 ![Widescale_violence](assets/img/proportion_of_widescale_violence.png)
 
+![murder_violence](assets/img/proportion_of_murder.png)
+
+![torture_violence](assets/img/proportion_of_torture.png)
+
+![sexual_violence](assets/img/proportion_of_sexual_violence.png)
+
 
