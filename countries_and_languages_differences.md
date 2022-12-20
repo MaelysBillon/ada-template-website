@@ -5,6 +5,17 @@ layout: default
 
 * * *
 
-Violence is a wide subject and its representation can be as diverse as one's imagination can go. Its degree of explicitness accepted by public is a line hard to draw for worldwide appreciation. Differents cultures have a different degree of tolerance toward such representation. When we say culture we, of course, mean public from different area of the world, but also from different era. Each person has a different backstory concerning violence, this backstory can come from History. Geopolitical events such as wars can influence the desire to see explicittype of violence.
+The representation of violence can be as varied as one's imagination allows because it is such a broad topic.
+Its level of public acceptance of explicitness is a difficult threshold to draw for universal acclaim.
+Different cultures tolerate this kind of representation to varying degrees.
+Naturally, when we refer to culture, we mean people from different parts of the world as well as from diverse historical periods.
+Each person's background towards violence is unique, and this background may have historical roots.
+Conflicts, instability, and morality can influence people's desire to see explicit violence.
+
+* * *
+
+## Violence representation throughout the decades
+
+![Widescale_violence](assets/img/proportion_of_widescale_violence.png)
 
 
