@@ -20,25 +20,26 @@ As in the rest of our project we separate 4 different types of violence namely *
 
 We decide to plot the ratio of movies containing words related to the previously stated types of violence in function of release year.
 
-et moi je vais me doucher, SALUT 
-JE PEUX VENIR ?OU TU VEUX PRENDRE UNE DOUCHE FROIDE MDR
-TU BOSSES TOI 
-AH. 
-MAIS TU PEUX 
-En vrai je vais bosser encore un peu mais bonne douche 
-okeeee salut ma reuf 
-
 1. Widescale violence
 ![Widescale_violence](assets/img/proportion_of_widescale_violence.png)
+
+One thing that we can notice is the peak during the 40's. This can be linked to the two world wars. (*need some data about the explicitness of violence*). (*need some data about the country that realeased the movies*) 
 
 1. Murder
 ![murder_violence](assets/img/proportion_of_murder.png)
 
+(oopsie doopsie)
+
 1. Torture
 ![torture_violence](assets/img/proportion_of_torture.png)
 
+
+
 1. Sexual violence
 ![sexual_violence](assets/img/proportion_of_sexual_violence.png)
+
+
+
 
 
 
